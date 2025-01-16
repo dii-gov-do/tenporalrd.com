@@ -115,11 +115,11 @@
             </tr>
             <tr>
                 Fecha de emisión
-                <td class="valor">16/01/2024</td>
+                <td class="valor">17/01/2025</td>
             </tr>
             <tr>
                 <th>Fecha de caducidad</th>
-                <td class="valor">16/04/2025</td>
+                <td class="valor">17/04/2025</td>
             </tr>
             <tr>
                 <th>Razón Social / Nombre Importador</th>
